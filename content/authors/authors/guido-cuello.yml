@@ -1,0 +1,9 @@
+name: Guido Cuello
+bio: |
+  Pensador, escritor y consumidor de tecnología y humanismo, con una única 
+  finalidad; difundir información, conocimiento y otros planteamientos.
+avatar: ./avatars/guido-cuello.jpg
+social:
+  - url: https://facebook.
+slug: guido-cuello
+featured: true

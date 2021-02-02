@@ -1,0 +1,9 @@
+name: Franco Morales C
+bio: |
+  Mi pasion es programar, pero tambien lo es leer,
+  aprender, compartir conocimiento y volver a programar.
+avatar: ./avatars/franco-morales.png
+social:
+  - url: https://facebook.com
+slug: franco-morales-c
+featured: true
